@@ -2,3 +2,4 @@ User-agent: *
 Disallow: 
 
 Sitemap: https://www.moriellohomesolutionsllc.com/sitemap.xml
+Sitemap: https://www.moriellohomesolutionsllc.github.io.com/sitemap.xml
